@@ -18,15 +18,55 @@
 
     <!--String arrays for World preferred netwrok modes -->
     <string-array name="preferred_network_mode_choices_world_mode">
+<item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>TDSCDMA only</item>
+        <item>LTE / WCDMA</item>
+        <item>LTE</item>
         <item>Global</item>
-        <item>LTE / CDMA</item>
-        <item>LTE / GSM / UMTS</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>EvDo only</item>
+        <item>CDMA w/o EvDo</item>
+        <item>CDMA/EvDo auto</item>
+        <item>GSM/WCDMA auto</item>
+        <item>WCDMA only</item>
+        <item>GSM only</item>
+        <item>GSM/WCDMA preferred</item>
     </string-array>
 
     <string-array name="preferred_network_mode_values_world_mode">
-        <item>"10"</item>
-        <item>"8"</item>
-        <item>"9"</item>
+<item>22</item>
+        <item>21</item>
+        <item>20</item>
+        <item>19</item>
+        <item>18</item>
+        <item>17</item>
+        <item>16</item>
+        <item>15</item>
+        <item>14</item>
+        <item>13</item>
+        <item>12</item>
+        <item>11</item>
+        <item>10</item>
+        <item>9</item>
+        <item>8</item>
+        <item>7</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
     </string-array>
 
     <!-- Array resource for call fowarding timer settings-->
